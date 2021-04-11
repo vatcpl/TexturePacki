@@ -1429,6 +1429,55 @@ section.lazy-placeholder:after {
 .cid-sugfSlS82p H4 {
   color: #c1c1c1;
 }
+.cid-sugvCzdIjM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #484545;
+}
+.cid-sugvCzdIjM .mbr-section-subtitle {
+  color: #c1c1c1;
+}
+.cid-sugvCzdIjM .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-sugvCzdIjM .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-sugvCzdIjM .team-item .item-image img {
+  width: 100%;
+}
+.cid-sugvCzdIjM .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-sugvCzdIjM .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-sugvCzdIjM .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-sugvCzdIjM .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-sugvCzdIjM .team-item .item-caption {
+  background: #363434;
+}
+.cid-sugvCzdIjM .item-name {
+  color: #ffffff;
+}
+.cid-sugvCzdIjM .item-role P {
+  color: #cccccc;
+}
+.cid-sugvCzdIjM H2 {
+  color: #ffffff;
+}
 .cid-sudCalMATk {
   padding-top: 30px;
   padding-bottom: 30px;
